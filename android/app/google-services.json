@@ -1,38 +1,146 @@
 {
   "project_info": {
-    "project_number": "1234567890",
-    "project_id": "your-project-id",
-    "storage_bucket": "your-project-id.appspot.com"
+    "project_number": "708239536635",
+    "firebase_url": "https://ginee-955a7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ginee-955a7",
+    "storage_bucket": "ginee-955a7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1234567890:android:abcdef123456",
+        "mobilesdk_app_id": "1:708239536635:android:3b40fb72645d67f8d3db5e",
         "android_client_info": {
-          "package_name": "com.example.yourapp"
+          "package_name": "com.example.trustchat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1234567890-abcdefg123456.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.yourapp",
-            "certificate_hash": "ABCDEF1234567890ABCDEF1234567890ABCDEF12"
-          }
+          "client_id": "708239536635-cc91rl8cd7c860d2t6vhf6t9pdfs59go.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "your-api-key"
+          "current_key": "AIzaSyD0hgYOabD3rHJ1G49Ind91AVnt8AiQBKs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1234567890-abcdefg123456.apps.googleusercontent.com",
+              "client_id": "708239536635-cc91rl8cd7c860d2t6vhf6t9pdfs59go.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "708239536635-rmk4l08uouhv006jqmo28l99q58diquk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gineekaro.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708239536635:android:e8bae3c85b727f04d3db5e",
+        "android_client_info": {
+          "package_name": "com.gineekaro.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708239536635-bcgq3i746f2n1r2n7mfnvapjoiie7j5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gineekaro.partner",
+            "certificate_hash": "3e422cd4ebe79c5f6c7668e55f409f5d5ee3f04c"
+          }
+        },
+        {
+          "client_id": "708239536635-tdj4k8l3rcueqtiutf1jk6j96iqbjupp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gineekaro.partner",
+            "certificate_hash": "007e6a122291865a865fdace2aa7f8fb2ddfaf5c"
+          }
+        },
+        {
+          "client_id": "708239536635-cc91rl8cd7c860d2t6vhf6t9pdfs59go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0hgYOabD3rHJ1G49Ind91AVnt8AiQBKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708239536635-cc91rl8cd7c860d2t6vhf6t9pdfs59go.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708239536635-rmk4l08uouhv006jqmo28l99q58diquk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gineekaro.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708239536635:android:382c6975851330bdd3db5e",
+        "android_client_info": {
+          "package_name": "com.gineekaro.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708239536635-qnkt8nb2cgksv70bpcpb6cr0upu4m9p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gineekaro.user",
+            "certificate_hash": "3e422cd4ebe79c5f6c7668e55f409f5d5ee3f04c"
+          }
+        },
+        {
+          "client_id": "708239536635-rdlnp6egp6toegurkrcvgg2k0ovcmjpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gineekaro.user",
+            "certificate_hash": "007e6a122291865a865fdace2aa7f8fb2ddfaf5c"
+          }
+        },
+        {
+          "client_id": "708239536635-cc91rl8cd7c860d2t6vhf6t9pdfs59go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0hgYOabD3rHJ1G49Ind91AVnt8AiQBKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708239536635-cc91rl8cd7c860d2t6vhf6t9pdfs59go.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708239536635-rmk4l08uouhv006jqmo28l99q58diquk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gineekaro.user"
+              }
             }
           ]
         }
